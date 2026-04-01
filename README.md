@@ -157,8 +157,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙋‍♂️ Author
 
-Made with ❤️ by [your-username](https://github.com/your-username)
-
-> Project inspired by [roadmap.sh](https://roadmap.sh/projects/nginx-log-analyser)
